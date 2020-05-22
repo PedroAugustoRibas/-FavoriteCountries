@@ -26,6 +26,12 @@ img{
     color:white;
     font-weight: bold;
 }
+.remove{
+    border-radius: 50%;
+    background-color: darkred;
+    color:white;
+    font-weight: bold;
+}
 .country-list{
     padding: 5px;
     border: 1px solid gray;
